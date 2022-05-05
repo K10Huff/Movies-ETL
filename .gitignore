@@ -130,6 +130,7 @@ dmypy.json
 
 # Large Dat Set
 Data/
+Resources/
 
 # Config w/ passwords
 config.py
